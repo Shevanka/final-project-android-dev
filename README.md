@@ -3,15 +3,6 @@
 Dart SDK : ^3.10.4\
 Flutter SDK : Flutter
 
-## Getting Started
+# Link
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Figma Design: https://www.figma.com/proto/HLqqYK7PZQk6ObItnV7oPr/Final-Project-Android-Workshop-Deisgn?node-id=0-1&t=N5gzbLmUON7SFHTp-1
